@@ -22,7 +22,7 @@ export const categories: Array<{ id: ReceiptCategory; label: string }> = [
   { id: "event", label: "Events" },
 ];
 
-export const receipts: ReceiptMoment[] = [
+export const receipts: [ReceiptMoment, ...ReceiptMoment[]] = [
   {
     id: "r-01",
     category: "music",
