@@ -1,0 +1,359 @@
+﻿{
+    "project":  "LIFE//RECEIPTS",
+    "overview":  {
+                     "spotifyPlays":  149860,
+                     "spotifyMinutes":  320492.2,
+                     "spotifySkipped":  7869,
+                     "householdRecords":  2461,
+                     "transactionRecords":  10267,
+                     "connectionCount":  100
+                 },
+    "music":  {
+                  "topArtists":  [
+                                     {
+                                         "name":  "The Beatles",
+                                         "plays":  13621
+                                     },
+                                     {
+                                         "name":  "The Killers",
+                                         "plays":  6878
+                                     },
+                                     {
+                                         "name":  "John Mayer",
+                                         "plays":  4855
+                                     },
+                                     {
+                                         "name":  "Bob Dylan",
+                                         "plays":  3814
+                                     },
+                                     {
+                                         "name":  "Paul McCartney",
+                                         "plays":  2697
+                                     },
+                                     {
+                                         "name":  "Led Zeppelin",
+                                         "plays":  2482
+                                     },
+                                     {
+                                         "name":  "Johnny Cash",
+                                         "plays":  2478
+                                     },
+                                     {
+                                         "name":  "The Rolling Stones",
+                                         "plays":  2390
+                                     },
+                                     {
+                                         "name":  "Radiohead",
+                                         "plays":  2305
+                                     },
+                                     {
+                                         "name":  "The Black Keys",
+                                         "plays":  2231
+                                     },
+                                     {
+                                         "name":  "Imagine Dragons",
+                                         "plays":  2116
+                                     },
+                                     {
+                                         "name":  "Pink Floyd",
+                                         "plays":  2105
+                                     },
+                                     {
+                                         "name":  "The Strokes",
+                                         "plays":  1818
+                                     },
+                                     {
+                                         "name":  "Coldplay",
+                                         "plays":  1631
+                                     },
+                                     {
+                                         "name":  "Arctic Monkeys",
+                                         "plays":  1600
+                                     },
+                                     {
+                                         "name":  "Lou Reed",
+                                         "plays":  1558
+                                     },
+                                     {
+                                         "name":  "The Velvet Underground",
+                                         "plays":  1507
+                                     },
+                                     {
+                                         "name":  "Ed Sheeran",
+                                         "plays":  1458
+                                     },
+                                     {
+                                         "name":  "Howard Shore",
+                                         "plays":  1446
+                                     },
+                                     {
+                                         "name":  "Kings of Leon",
+                                         "plays":  1381
+                                     }
+                                 ],
+                  "topTracks":  [
+                                    {
+                                        "name":  "Ode To The Mets",
+                                        "plays":  207
+                                    },
+                                    {
+                                        "name":  "In the Blood",
+                                        "plays":  181
+                                    },
+                                    {
+                                        "name":  "Dying Breed",
+                                        "plays":  166
+                                    },
+                                    {
+                                        "name":  "Caution",
+                                        "plays":  164
+                                    },
+                                    {
+                                        "name":  "19 Dias y 500 Noches - En Directo",
+                                        "plays":  148
+                                    },
+                                    {
+                                        "name":  "For What It\u0027s Worth",
+                                        "plays":  146
+                                    },
+                                    {
+                                        "name":  "Concerning Hobbits",
+                                        "plays":  142
+                                    },
+                                    {
+                                        "name":  "All These Things That I\u0027ve Done",
+                                        "plays":  142
+                                    },
+                                    {
+                                        "name":  "Come Together - Remastered 2009",
+                                        "plays":  137
+                                    },
+                                    {
+                                        "name":  "The Boxer",
+                                        "plays":  135
+                                    },
+                                    {
+                                        "name":  "Yesterday - Remastered 2009",
+                                        "plays":  134
+                                    },
+                                    {
+                                        "name":  "Crucify Your Mind",
+                                        "plays":  131
+                                    },
+                                    {
+                                        "name":  "Mr. Brightside",
+                                        "plays":  128
+                                    },
+                                    {
+                                        "name":  "Reminder",
+                                        "plays":  128
+                                    },
+                                    {
+                                        "name":  "Cavalleria rusticana: Intermezzo",
+                                        "plays":  128
+                                    },
+                                    {
+                                        "name":  "Nuovo Cinema Paradiso",
+                                        "plays":  127
+                                    },
+                                    {
+                                        "name":  "Sweet Virginia",
+                                        "plays":  127
+                                    },
+                                    {
+                                        "name":  "I Guess I Just Feel Like",
+                                        "plays":  127
+                                    },
+                                    {
+                                        "name":  "Imploding The Mirage",
+                                        "plays":  123
+                                    },
+                                    {
+                                        "name":  "Claudia\u0027s Theme - Version Eight",
+                                        "plays":  123
+                                    }
+                                ],
+                  "activeHours":  [
+                                      {
+                                          "hour":  0,
+                                          "plays":  10884
+                                      },
+                                      {
+                                          "hour":  23,
+                                          "plays":  10516
+                                      },
+                                      {
+                                          "hour":  20,
+                                          "plays":  10494
+                                      },
+                                      {
+                                          "hour":  1,
+                                          "plays":  9395
+                                      },
+                                      {
+                                          "hour":  17,
+                                          "plays":  9194
+                                      },
+                                      {
+                                          "hour":  2,
+                                          "plays":  9029
+                                      },
+                                      {
+                                          "hour":  21,
+                                          "plays":  8953
+                                      },
+                                      {
+                                          "hour":  18,
+                                          "plays":  8945
+                                      }
+                                  ]
+              },
+    "spending":  {
+                     "categories":  [
+                                        {
+                                            "category":  "travel",
+                                            "amount":  12044742.4
+                                        },
+                                        {
+                                            "category":  "entertainment",
+                                            "amount":  11572453.74
+                                        },
+                                        {
+                                            "category":  "online_shopping",
+                                            "amount":  11558159.7
+                                        },
+                                        {
+                                            "category":  "fitness_and_medical",
+                                            "amount":  9785338.1
+                                        },
+                                        {
+                                            "category":  "Unknown",
+                                            "amount":  4005379.44
+                                        }
+                                    ],
+                     "merchants":  [
+                                       {
+                                           "merchant":  "fraud_Lalla PLC Pvt Ltd",
+                                           "visits":  21
+                                       },
+                                       {
+                                           "merchant":  "fraud_Bakshi and Sons Pvt Ltd",
+                                           "visits":  19
+                                       },
+                                       {
+                                           "merchant":  "fraud_Kamdar Inc Pvt Ltd",
+                                           "visits":  19
+                                       },
+                                       {
+                                           "merchant":  "fraud_Loyal and Sons Pvt Ltd",
+                                           "visits":  18
+                                       },
+                                       {
+                                           "merchant":  "fraud_Bhat Inc Pvt Ltd",
+                                           "visits":  18
+                                       },
+                                       {
+                                           "merchant":  "fraud_Sekhon and Sons Pvt Ltd",
+                                           "visits":  18
+                                       },
+                                       {
+                                           "merchant":  "fraud_Khanna Ltd Pvt Ltd",
+                                           "visits":  18
+                                       },
+                                       {
+                                           "merchant":  "fraud_Lad Group Pvt Ltd",
+                                           "visits":  17
+                                       },
+                                       {
+                                           "merchant":  "fraud_Sidhu, Mane and Chana Pvt Ltd",
+                                           "visits":  17
+                                       },
+                                       {
+                                           "merchant":  "fraud_Bora and Sons Pvt Ltd",
+                                           "visits":  17
+                                       },
+                                       {
+                                           "merchant":  "fraud_Bhavsar and Sons Pvt Ltd",
+                                           "visits":  17
+                                       },
+                                       {
+                                           "merchant":  "fraud_Gokhale, Rajagopal and Gala Pvt Ltd",
+                                           "visits":  16
+                                       },
+                                       {
+                                           "merchant":  "fraud_Shukla Group Pvt Ltd",
+                                           "visits":  16
+                                       },
+                                       {
+                                           "merchant":  "fraud_Date and Sons Pvt Ltd",
+                                           "visits":  16
+                                       },
+                                       {
+                                           "merchant":  "fraud_Ramesh Inc Pvt Ltd",
+                                           "visits":  16
+                                       }
+                                   ],
+                     "cities":  [
+                                    {
+                                        "city":  "Aurangabad",
+                                        "transactions":  100
+                                    },
+                                    {
+                                        "city":  "Kharagpur",
+                                        "transactions":  78
+                                    },
+                                    {
+                                        "city":  "Berhampur",
+                                        "transactions":  72
+                                    },
+                                    {
+                                        "city":  "Jhansi",
+                                        "transactions":  71
+                                    },
+                                    {
+                                        "city":  "Proddatur",
+                                        "transactions":  69
+                                    },
+                                    {
+                                        "city":  "Shahjahanpur",
+                                        "transactions":  67
+                                    },
+                                    {
+                                        "city":  "Nagpur",
+                                        "transactions":  67
+                                    },
+                                    {
+                                        "city":  "Nashik",
+                                        "transactions":  65
+                                    },
+                                    {
+                                        "city":  "Satna",
+                                        "transactions":  65
+                                    },
+                                    {
+                                        "city":  "Nizamabad",
+                                        "transactions":  65
+                                    },
+                                    {
+                                        "city":  "Ghaziabad",
+                                        "transactions":  65
+                                    },
+                                    {
+                                        "city":  "Orai",
+                                        "transactions":  64
+                                    },
+                                    {
+                                        "city":  "Satara",
+                                        "transactions":  62
+                                    },
+                                    {
+                                        "city":  "Kota",
+                                        "transactions":  60
+                                    },
+                                    {
+                                        "city":  "Akola",
+                                        "transactions":  60
+                                    }
+                                ]
+                 }
+}
